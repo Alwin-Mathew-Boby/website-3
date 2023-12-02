@@ -40,19 +40,20 @@ a:visited{
     transform: translate(-50%,-50%);
 }
 .bodyimg h3{
-    color:#f7f2f2;
+    color:rgb(6, 193, 240);
     font-family: fantasy;
     font-size: 30px;
     width: 1600px;
     position: absolute;
     top:40%;
     left:80%;
-    transform: translate(-40%, -40%);
+    transform: translate(-50%, -50%);
 }
 .grid{
     display: flex;
+    justify-content: space-evenly;
     flex-wrap: wrap;
-    margin: 40px;
+    margin:40px;
     font-family: sans-serif;
     
 }
@@ -71,9 +72,6 @@ a:visited{
     
 }
 
-/* .origami:hover{ */
-/*.origami : mouseover{*/
-/*.origami:link{*/
 .origami:hover{
 
     transform: scale(1.2);
