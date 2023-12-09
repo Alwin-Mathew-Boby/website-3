@@ -37,7 +37,7 @@ a:visited{
     position: absolute;
     top:10%;
     left:50%;
-    transform: translate(-50%,-50%);
+    transform: translate(-40%,-40%);
 }
 .bodyimg h3{
     color:rgb(6, 193, 240);
